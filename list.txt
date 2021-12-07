@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+Авдеенко Илья Дмитриевич
+=======
+Яшин Данила Олегович
+>>>>>>> feature/listDanila
+=======
+pinzhura maxon dmitrievi4
+>>>>>>> feature/listMaxon
